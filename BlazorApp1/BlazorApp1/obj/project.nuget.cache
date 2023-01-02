@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uQ99VTIqRt9j39vY//UdfNo/J/rAsNjsGvOpaK8Rj7VNvBgPfJpzG58fQmlF6iKeSCjiIwm+hsmENraUoE5Mjw==",
+  "dgSpecHash": "fnQeI6RRvW2TW7EGqF4Yq7IhCBuG4XkMkyd0V7qEB+SO8vXUxnyf+Zkela2khJhBGlHI+7kIgPV1/c/P1qcn+Q==",
   "success": true,
   "projectFilePath": "C:\\Galileu\\Projeto II 76698\\aula 1\\academia 7689\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\Claudia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Claudia\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Claudia\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Claudia\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.10.nupkg.sha512"
+    "C:\\Users\\Claudia\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
